@@ -1,0 +1,1 @@
+{"name":"Local: 4924","url":"d:\\VSCodeWorkPlace\\LuoGu\\4924.py","tests":[{"id":1728911727389,"input":"5 4\n2 2 1 0\n3 3 1 1\n4 4 1 0\n3 3 2 1","output":"5 10 3 18 15\n4 19 8 17 20\n1 14 23 24 25\n6 9 2 7 22\n11 12 13 16 21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCodeWorkPlace\\LuoGu\\4924.py","group":"local","local":true}
