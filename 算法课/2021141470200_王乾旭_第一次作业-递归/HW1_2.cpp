@@ -60,7 +60,7 @@ vector<int> parseInputArray(string input) {
 
 int main() {
     string input;
-    cout << "Input arr: ";
+    cout << "Input arr: （只打数字，用空格隔开）";
     getline(cin, input);
 
     vector<int> arr = parseInputArray(input);

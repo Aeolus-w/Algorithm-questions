@@ -95,7 +95,7 @@ vector<vector<int>> parseInput(const string& input) {
 int main() {
     // 从终端输入读取二维数组
     string input;
-    cout << "Input:" << endl;
+    cout << "Input:格式为类似[[1,2,3],[2,4,5]]" << endl;
     getline(cin, input);
 
     // 解析输入为二维数组
